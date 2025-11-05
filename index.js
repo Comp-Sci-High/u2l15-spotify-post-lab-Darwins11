@@ -42,7 +42,7 @@ async function createPlaylist() {
 
 let addingSongsURL = "";
 
-// 2. Find 3 songs on spotify and add them to the songs array below.
+// 2. Find 4 songs on spotify and add them to the songs array below. (If spotify is blocked use the example below, or ask Mr.Castro)
 //    - The songs should be in the format: "spotify:track:<track_id>"
 //    - Find the track id from the songs URL after track/ but before the queries
 //    - Ex: https://open.spotify.com/track/6a6JDEQbXdxkWFRIA0pRqL?si=e9e0c29125a746f6 => spotify:track:6a6JDEQbXdxkWFRIA0pRqL
